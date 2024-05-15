@@ -1,0 +1,614 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.994875907897949,
+        6.7527031898498535,
+        4.502456188201904
+      ],
+      "min": [
+        -2.401772975921631,
+        3.4890449047088623,
+        1.1488250494003296
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999502301216125,
+        0.9999902248382568,
+        0.9998809099197388
+      ],
+      "min": [
+        -0.999984860420227,
+        -0.9999987483024597,
+        -0.9998966455459595
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9411764740943909,
+        0.7686274647712708,
+        0.7921568751335144,
+        1.0
+      ],
+      "min": [
+        0.03529411926865578,
+        0.019607843831181526,
+        0.019607843831181526,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9941419959068298,
+        0.987034022808075
+      ],
+      "min": [
+        0.0026080000679939985,
+        0.002624999964609742
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 352983,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.4889719486236572,
+        8.128323554992676,
+        3.9227330684661865
+      ],
+      "min": [
+        -2.4795279502868652,
+        3.279690980911255,
+        -1.3303910493850708
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999832510948181,
+        0.9997830986976624,
+        0.9997738599777222
+      ],
+      "min": [
+        -0.9999962449073792,
+        -0.9999873638153076,
+        -0.999907374382019
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8588235378265381,
+        0.7882353067398071,
+        0.8392156958580017,
+        1.0
+      ],
+      "min": [
+        0.03529411926865578,
+        0.01568627543747425,
+        0.007843137718737125,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9989079833030701,
+        0.990464985370636
+      ],
+      "min": [
+        0.0012309999438002706,
+        8.099999831756577e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1411932,
+      "componentType": 5125,
+      "count": 351120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.6888879537582397,
+        8.567315101623535,
+        2.231220006942749
+      ],
+      "min": [
+        -2.3728160858154297,
+        4.501805782318115,
+        -1.8112729787826538
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9998523592948914,
+        0.9998345971107483,
+        0.9999721050262451
+      ],
+      "min": [
+        -0.9999861121177673,
+        -0.999974250793457,
+        -0.9879757761955261
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2097024,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9215686321258545,
+        0.843137264251709,
+        0.9019607901573181,
+        1.0
+      ],
+      "min": [
+        0.03921568766236305,
+        0.027450980618596077,
+        0.0313725508749485,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.998278021812439,
+        0.9826130270957947
+      ],
+      "min": [
+        0.0006249999860301614,
+        0.012504000216722488
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2816412,
+      "componentType": 5125,
+      "count": 351798,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.9942290782928467,
+        8.155669212341309,
+        4.577301979064941
+      ],
+      "min": [
+        -2.4926979541778564,
+        3.267404079437256,
+        -1.6839300394058228
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5504688,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999029040336609,
+        0.9999400973320007,
+        0.9998603463172913
+      ],
+      "min": [
+        -0.9999962449073792,
+        -1.0,
+        -0.9996833801269531
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.8941176533699036,
+        0.8078431487083435,
+        0.843137264251709,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9989079833030701,
+        0.9998930096626282
+      ],
+      "min": [
+        6.299999949987978e-05,
+        3.000000106112566e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4223604,
+      "componentType": 5125,
+      "count": 291180,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6291072,
+      "componentType": 5126,
+      "count": 41420,
+      "max": [
+        1.7594870328903198,
+        8.561910629272461,
+        2.978616952896118
+      ],
+      "min": [
+        -2.385308027267456,
+        4.544985771179199,
+        -1.8097440004348755
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6788112,
+      "componentType": 5126,
+      "count": 41420,
+      "max": [
+        0.9993427395820618,
+        0.9997830986976624,
+        0.9999473690986633
+      ],
+      "min": [
+        -0.9999873638153076,
+        -0.999974250793457,
+        -0.9981157779693604
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4194048,
+      "componentType": 5126,
+      "count": 41420,
+      "max": [
+        0.8941176533699036,
+        0.843137264251709,
+        0.9058823585510254,
+        1.0
+      ],
+      "min": [
+        0.03921568766236305,
+        0.01568627543747425,
+        0.0117647061124444,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2097024,
+      "componentType": 5126,
+      "count": 41420,
+      "max": [
+        0.9969159960746765,
+        0.9969300031661987
+      ],
+      "min": [
+        0.00380899989977479,
+        4.999999873689376e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5388324,
+      "componentType": 5125,
+      "count": 152919,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kckaiwei (https://sketchfab.com/kckaiwei)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/egyptian-statue-fadb8fb239ec4bcc9d07ab672886a675",
+      "title": "Egyptian Statue"
+    },
+    "generator": "Sketchfab-15.27.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6000000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2428384,
+      "byteOffset": 6000000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7285152,
+      "byteOffset": 8428384,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4856768,
+      "byteOffset": 15713536,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 20570304,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "textures/egypt_statue_low_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.49828723287537635
+        }
+      },
+      "name": "egypt_statue_low",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 7,
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 12,
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 17,
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_4",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 22,
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9357454180717468,
+        8.52487640911271e-17,
+        -0.35267630219459534,
+        0.0,
+        -0.33520346879959106,
+        -0.3108575642108915,
+        -0.8893852829933168,
+        0.0,
+        -0.10963209718465805,
+        0.9504565000534059,
+        -0.2908835411071775,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "egypt_statue_low.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 4,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
