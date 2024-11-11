@@ -7,6 +7,8 @@
  growth. The website allows user engagement through registration and creation of personalized and
  unique accounts. The website has an immersive 3D graphics and triggered animations for better
  user interactions.
+ # Team Members: Anamika and Suzana 
+ 
  
  ![WhatsApp Image 2024-11-10 at 21 57 12_5bb4d204](https://github.com/user-attachments/assets/60d0f6c1-95f5-43b5-b796-2918d1ec9c5b)
 ![WhatsApp Image 2024-11-10 at 21 57 12_754732fe](https://github.com/user-attachments/assets/d49aa9b9-f900-4d04-94ba-6de97244a3ae)
